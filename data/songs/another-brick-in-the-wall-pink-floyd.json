@@ -1,0 +1,197 @@
+{
+  "title": "Another brick in the wall",
+  "artist": "Pink floyd",
+  "sections": [
+    {
+      "name": "Intro",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 2,
+          "chords": ["Dm"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 7,
+          "chords": ["Dm"],
+          "lyrics": [
+            ["We don't need no education"],
+            [],
+            ["We don't need no thought control"],
+            [],
+            ["No dark sarcasm in the classroom"],
+            [],
+            ["Teachers leave them kids alone"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 2,
+          "chords": ["G"],
+          "lyrics": [
+            [],
+            ["Hey, teachers, leave them kids alone"]
+          ]
+        },
+        {
+          "length": 2,
+          "repeat": 1,
+          "chords": ["Dm"],
+          "lyrics": [
+            []
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["F", "C", "Dm"],
+          "lyrics": [
+            ["All in all it's just another brick in the wall"],
+            ["All in all you're just another brick in the wall"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 7,
+          "chords": ["Dm"],
+          "lyrics": [
+            ["We don't need no education"],
+            [],
+            ["We don't need no thought control"],
+            [],
+            ["No dark sarcasm in the classroom"],
+            [],
+            ["Teachers leave them kids alone"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 2,
+          "chords": ["G"],
+          "lyrics": [
+            [],
+            ["Hey, teachers, leave them kids alone"]
+          ]
+        },
+        {
+          "length": 2,
+          "repeat": 1,
+          "chords": ["Dm"],
+          "lyrics": [
+            []
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["F", "C", "Dm"],
+          "lyrics": [
+            ["All in all it's just another brick in the wall"],
+            ["All in all you're just another brick in the wall"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guitar solo",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 104,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["Dm"],
+          "lyrics": [
+            [],
+            []
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["C", "Dm"],
+          "lyrics": [
+            [],
+            [],
+            [],
+            []
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["C", "A#"],
+          "lyrics": [
+            []
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["C", "Dm"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    }
+  ]
+}

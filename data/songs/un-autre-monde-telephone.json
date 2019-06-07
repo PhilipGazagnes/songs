@@ -1,0 +1,282 @@
+{
+  "title": "Un autre monde",
+  "artist": "Téléphone",
+  "sections": [
+    {
+      "name": "Intro guitare",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            [],
+            [],
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro groupe",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            ["Je rêvais d'un autre monde"],
+            ["Où la Terre serait ronde"],
+            ["Où la lune serait blonde"],
+            ["Et la vie serait féconde"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G", "A"],
+          "lyrics": [
+            ["Je dormais à poings fermés"],
+            ["Je ne voyais plus en pied"],
+            ["Je rêvais réalité"],
+            ["Ma réalité"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Instru",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            ["Je rêvais d'une autre Terre"],
+            ["Qui resterait un mystère"],
+            ["Une Terre moins terre à terre"],
+            ["Oui, je voulais tout foutre en l'air"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 3,
+          "chords": ["G", "A"],
+          "lyrics": [
+            ["Je marchais les yeux fermés"],
+            ["Je ne voyais plus en pied"],
+            ["Je rêvais réalité"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["G", "A"],
+          "lyrics": [
+            ["Ma réalité"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Instru",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            ["Oui, je rêvais de notre monde"],
+            ["Et la Terre est bien ronde"],
+            ["Et la lune est si blonde"],
+            ["Ce soir dansent les ombres du monde"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 3,
+          "chords": ["G", "A"],
+          "lyrics": [
+            ["À la rêver immobile"],
+            ["Elle m'a trouvé bien futile"],
+            ["Mais quand bouger l'a faite tourner"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["G", "A"],
+          "lyrics": [
+            ["Ma réalité m'a pardonné"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 142,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 8,
+          "chords": ["D", "Bm", "F#m"],
+          "lyrics": [
+            ["... m'a pardonné"],
+            ["... ma réalité"],
+            ["... ma réalité m'a pardonné"],
+            ["... dansent les ombres du monde"],
+            ["... dansent les ombres du monde"],
+            ["... dansent, dansent, dansent les ombres du monde"],
+            ["..."],
+            ["..."]
+          ]
+        }
+      ]
+    }
+  ]
+}

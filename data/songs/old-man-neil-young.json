@@ -1,0 +1,242 @@
+{
+  "title": "Old man",
+  "artist": "Neil Young",
+  "sections": [
+    {
+      "name": "Calme",
+      "color": 2,
+      "signature": {
+        "top": 10,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 1,
+          "repeat": 3,
+          "chords": ["D"],
+          "lyrics": [
+            [],
+            [],
+            ["Old man look at my life",
+              "I'm a lot like you were"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calme",
+      "color": 2,
+      "signature": {
+        "top": 6,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 1,
+          "repeat": 1,
+          "chords": ["D"],
+          "lyrics": [
+            ["Old man look at my life",
+              "I'm a lot like..."]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beat",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 6,
+          "chords": ["D", "F", "C", "G"],
+          "lyrics": [
+            ["... you were"],
+            [],
+            [
+              "Old man look at my life",
+              "Twenty four and there's so much more"
+            ],
+            [
+              "Live alone in a paradise",
+              "That makes me think of two"
+            ],
+            [
+              "Love lost, such a cost",
+              "Give me things that don't get lost"
+            ],
+            [
+              "Like a coin that won't get tossed",
+              "Rolling home to you"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["D", "Am", "Em", "G"],
+          "lyrics": [
+            [],
+            ["Old man take a look at my life",
+              "I'm a lot like you"],
+            ["I need someone to love me",
+              "The whole day through"],
+            ["Ah, one look in my eyes",
+              "And you can tell that's true"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beat",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 6,
+          "chords": ["D", "F", "C", "G"],
+          "lyrics": [
+            [],
+            [],
+            [
+              "Lullabies, look in your eyes",
+              "Run around the same old town"],
+            ["Doesn't mean that much to me",
+              "To mean that much to you"],
+            ["I've been first and last",
+              "Look at how the time goes past"],
+              ["But I'm all alone at last",
+              "Rolling home to you"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["D", "Am", "Em", "G"],
+          "lyrics": [
+            [],
+            ["Old man take a look at my life",
+              "I'm a lot like you"],
+            ["I need someone to love me",
+              "The whole day through"],
+            ["Ah, one look in my eyes",
+              "And you can tell that's true"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calme",
+      "color": 2,
+      "signature": {
+        "top": 10,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 1,
+          "repeat": 2,
+          "chords": ["D"],
+          "lyrics": [
+            [],
+            ["Old man look at my life",
+              "I'm a lot like you were"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calme",
+      "color": 2,
+      "signature": {
+        "top": 6,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 1,
+          "repeat": 1,
+          "chords": ["D"],
+          "lyrics": [
+            ["Old man look at my life",
+              "I'm a lot like..."]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beat",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 1,
+          "chords": ["D", "F", "C", "G"],
+          "lyrics": [
+            ["... you were"]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beat",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 75,
+      "cycles": [
+        {
+          "length": 1,
+          "repeat": 1,
+          "chords": ["D"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    }
+  ]
+}

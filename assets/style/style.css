@@ -1,0 +1,246 @@
+.song-list a {
+  display: block;
+  margin: 0 0 10px 0;
+  border-radius: 2px;
+  border: 1px solid #eee;
+  padding: 20px;
+  color: #333;
+  text-decoration: none;
+}
+.song-list a > span {
+  display: block;
+}
+.song-list a > span:first-child {
+  /* the song title */
+  font-weight: bold;
+}
+.song-list a > span:last-child {
+  /* the song artist */
+  font-size: 0.9em;
+}
+
+body {
+  background: #fafafa;
+}
+
+.content {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 0 200px 0;
+}
+.content > h1 > span:last-child {
+  font-size: 0.8em;
+  opacity: 0.8;
+}
+.content > h1 > span:last-child:before {
+  content: "(";
+}
+.content > h1 > span:last-child:after {
+  content: ")";
+}
+.content__rythm {
+  padding: 0 0 20px 0;
+}
+.content__rythm:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.content__rythm > span {
+  display: block;
+}
+.content__rythm > span:first-child {
+  /* the signature */
+  float: left;
+}
+.content__rythm > span:first-child > span:last-child:before {
+  content: "/ ";
+}
+.content__rythm > span:last-child {
+  /* the tempo */
+  float: right;
+}
+.content__rythm > span:last-child::after {
+  content: " bpm";
+}
+.content__section {
+  position: relative;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+}
+.content__section__name {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: white;
+}
+.content__section__name--color-1 {
+  background: #8B6ED7;
+}
+.content__section__name--color-2 {
+  background: #51339d;
+}
+.content__section__name--color-3 {
+  background: #259238;
+}
+.content__section__name--color-4 {
+  background: #BF3A30;
+}
+.content__section__cycle__info {
+  padding: 15px;
+}
+.content__section__cycle__info:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.content__section__cycle__info > span {
+  display: block;
+}
+.content__section__cycle__info > span:first-child {
+  /* the number of repetitions */
+  float: left;
+}
+.content__section__cycle__info > span:first-child > small {
+  opacity: 0.5;
+  font-size: 1em;
+}
+.content__section__cycle__info > span:first-child > small:after {
+  content: " mesures";
+}
+.content__section__cycle__info > span:first-child > strong {
+  font-size: 1.2em;
+}
+.content__section__cycle__info > span:first-child > strong:before {
+  content: "x ";
+  font-weight: normal;
+}
+.content__section__cycle__info > span:last-child {
+  /* the chords */
+  float: right;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.content__section__cycle__lyrics {
+  font-size: 1.5em;
+  padding: 0 20px 20px 20px;
+}
+.content__section__cycle__lyrics > div {
+  border-left: 2px solid #666;
+  padding: 5px 0 5px 20px;
+  margin: 0 0 20px 0;
+  position: relative;
+}
+.content__section__cycle__lyrics > div.active {
+  font-weight: bold;
+}
+.content__section__cycle__lyrics > div.active > span {
+  display: block;
+  height: 100%;
+  position: absolute;
+  left: -22px;
+  width: 22px;
+  top: 0;
+  background: #ddd;
+}
+.content__section__cycle__lyrics > div.active > span > span {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background: green;
+}
+
+.overview {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: white;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+.overview:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.overview__track {
+  padding: 35px 40px 0 40px;
+}
+.overview__section {
+  float: left;
+  border-radius: 20px;
+}
+.overview__section > div {
+  border: 5px white solid;
+  height: 20px;
+  border-radius: 10px;
+}
+.overview__section--color-1 {
+  background: #8B6ED7;
+}
+.overview__section--color-2 {
+  background: #51339d;
+}
+.overview__section--color-3 {
+  background: #259238;
+}
+.overview__section--color-4 {
+  background: #BF3A30;
+}
+
+.hide-details .content__section__chords {
+  display: none;
+}
+
+.play, .stop {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  padding: 0 10px;
+  height: 30px;
+  z-index: 60;
+}
+
+.stop {
+  display: none;
+}
+
+.full-screen-info {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: table;
+  background: rgba(255, 0, 0, 0.2);
+  z-index: 50;
+}
+.full-screen-info__content {
+  display: table-cell;
+  width: 100%;
+  vertical-align: middle;
+  font-weight: bold;
+  text-align: center;
+}
+.full-screen-info__content > div {
+  background: red;
+  color: white;
+  font-size: 3em;
+  font-weight: bold;
+  display: inline-block;
+  padding: 50px;
+  border-radius: 200px;
+}
+
+.json {
+  display: none;
+}
+
+/*# sourceMappingURL=style.css.map */

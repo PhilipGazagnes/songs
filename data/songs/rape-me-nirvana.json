@@ -1,0 +1,304 @@
+{
+  "title": "Rape me",
+  "artist": "Nirvana",
+  "sections": [
+    {
+      "name": "Intro",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 2,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet 1",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "Rape me"
+            ],
+            [
+              "Rape me my friend"
+            ],
+            [
+              "Rape me"
+            ],
+            [
+              "Rape me again"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain 1",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet 2",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "Hate me"
+            ],
+            [
+              "Do it and do it again"
+            ],
+            [
+              "Waste me"
+            ],
+            [
+              "Rape me again"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain 2",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pont",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["C", "G#", "F#..."],
+          "lyrics": [
+            [
+              "My favorite inside source"
+            ],
+            [
+              "I'll kiss your open sores"
+            ],
+            [
+              "Appreciate your concern"
+            ],
+            [
+              "You're gonna stink and burn"
+            ]
+          ]
+        },
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["E", "F#", "D#"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet 3",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "Rape me"
+            ],
+            [
+              "Rape me my friend"
+            ],
+            [
+              "Rape me"
+            ],
+            [
+              "Rape me again"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain 3",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 4,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ],
+            [
+              "I'm not the only one"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 112,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 8,
+          "chords": ["G#m", "B", "D#", "F#"],
+          "lyrics": [
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ],
+            [
+              "Rape me",
+              "(Rape me)"
+            ]
+          ]
+        },
+        {
+          "length": 2,
+          "repeat": 1,
+          "chords": ["G#m"],
+          "lyrics": [
+            [
+              "Rape me"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

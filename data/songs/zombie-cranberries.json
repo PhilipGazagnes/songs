@@ -1,0 +1,274 @@
+{
+  "title": "Zombie",
+  "artist": "Cranberries",
+  "sections": [
+    {
+      "name": "Intro",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain instru",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pré couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [
+              "Another head hangs lowly",
+              "Child is slowly taken"
+            ],
+            [
+              "And the violence, caused such silence",
+              "Who are we mistaken?"
+            ],
+            [
+              "But you see, it's not me, it's not my family",
+              "In your head, in your head, they are fighting"
+            ],
+            [
+              "With their tanks, and their bombs, and their bombs, and their guns",
+              "In your head, in your head they are crying"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 3,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [
+              "In your head, in your head",
+              "Zombie, zombie, zombie-ie-ie"
+            ],
+            [
+              "What's in your head, in your head",
+              "Zombie, zombie, zombie-ie-ie, oh"
+            ],
+            [
+              "Du, du, du, du",
+              "Du, du, du, du"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pré couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 1,
+          "chords": ["m", "A#", "F", "C"],
+          "lyrics": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Couplet",
+      "color": 1,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [
+              "Another mother's breaking",
+              "Heart is taking over"
+            ],
+            [
+              "When the violence causes silence",
+              "We must be mistaken"
+            ],
+            [
+              "It's the same old theme, since nineteen-sixteen",
+              "In your head, in your head, they're still fighting"
+            ],
+            [
+              "With their tanks, and their bombs, and their bombs, and their guns",
+              "In your head, in your head, they are dying"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refrain",
+      "color": 2,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 4,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [
+              "In your head, in your head",
+              "Zombie, zombie, zombie-ie-ie"
+            ],
+            [
+              "What's in your head, in your head",
+              "Zombie, zombie, zombie-ie-ie, ..."
+            ],
+            [
+              "oh oh oh oh",
+              "oh oh oh ie-ie oh"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pré pont",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 2,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pont",
+      "color": 3,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 4,
+          "repeat": 3,
+          "chords": ["Dm", "A#", "F", "C"],
+          "lyrics": [
+            [],
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "color": 4,
+      "signature": {
+        "top": 4,
+        "bottom": 4
+      },
+      "tempo": 84,
+      "cycles": [
+        {
+          "length": 2,
+          "repeat": 3,
+          "chords": ["Dm", "A#"],
+          "lyrics": [
+            [],
+            [],
+            []
+          ]
+        }
+      ]
+    }
+  ]
+}
